@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+jupyter
+
+numpy → numerical computations
+pandas → portfolio/curve data handling
+matplotlib → plotting yield curve shifts, P&L curves, etc.
+scipy → bond pricing, convexity, and interpolation
+jupyter → running the demo notebook
